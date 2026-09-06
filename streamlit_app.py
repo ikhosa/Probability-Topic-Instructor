@@ -18,7 +18,7 @@ import google.generativeai as genai
 # ==================================================================
 # 2. CONFIGURATION
 # ==================================================================
-GEMINI_MODEL_NAME = "gemini-2.5-flash"
+GEMINI_MODEL_NAME = "gemini-3.5-flash"
 NUM_EXAMPLES = 2
 DIFFICULTY_LEVELS = ["Easy", "Medium", "Hard"]
 
